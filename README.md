@@ -2,6 +2,10 @@
 ENCRYPTE YOUR SCRIPT WITH CPYTHON
 
 
+- `git clone https://github.com/Hamii-king-06/CPYTHON.310.SO.git`
+
+- `cd CPYTHON.310.S0`
+- ` python setup.py `
 # STEP 1
  first of all use   Encrypt Marshal Zlib Base64 on your file  and save in a storage/emulated/0/
  
