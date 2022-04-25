@@ -42,7 +42,7 @@ python setup.py build_ext --inplace
 # STEP 5
 Use HAMII.py file for run your cythonize file
 # STEP 6 
- make import system use fallowing method 
+ make import system use following method 
  
  CHECK YOUR MAIN MENU  IF YOUR NAME IS MAIN SO USE THIS IMPORT SYSTEM
  ```
